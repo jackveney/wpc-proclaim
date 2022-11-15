@@ -171,20 +171,10 @@ nav:
   - Home: index.md
   - About: about.md
   - Documentation: 
-    - Documentation: 
-      - Starting a New Presentation: documentation/starting_new.md
-      - Editing Text Content: documentation/editing_content.md
-      - Creating New Text Content: documentation/new_content.md
-      - Adding Hymns: documentation/add_hymns.md
-      - Editing Scripture Readings: documentation/edit_scripture.md
-      - Adding Scripture Readings: documentation/add_scripture.md
-
-#    - Computers:
-#      - Mackey Hall Computers: documentation/turning_projector_on.md
-#      - Personal Computer: documentation/turning_projector_on.md
-#    - Troubleshooting:
-#      - iPad Not Connecting to Sound System: documentation/turning_projector_on.md
-#      - No Sound Output: documentation/turning_projector_on.md
-#      - No Computer Audio Output: documentation/turning_projector_on.md
-#      - No Video Output from Projector: documentation/turning_projector_on.md
+    - Starting a New Presentation: documentation/starting_new.md
+    - Editing Text Content: documentation/editing_content.md
+    - Creating New Text Content: documentation/new_content.md
+    - Adding Hymns: documentation/add_hymns.md
+    - Editing Scripture Readings: documentation/edit_scripture.md
+    - Adding Scripture Readings: documentation/add_scripture.md
   - PDF: pdf/document.pdf
