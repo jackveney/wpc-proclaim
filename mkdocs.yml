@@ -170,7 +170,7 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Documentation: index.md
+  - Documentation: 
     - Documentation: 
       - Starting a New Presentation: documentation/starting_new.md
       - Editing Text Content: documentation/editing_content.md
