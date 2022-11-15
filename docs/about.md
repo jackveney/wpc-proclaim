@@ -1,6 +1,6 @@
-# Westminster Presbyterian Church Technology Documentation for Guests
+# Westminster Presbyterian Church Proclaim Reference Guide
 
-The Westminster Presbyterian Church Technology Documentation for Guests is s reference for the technology located in Mackey Hall instnded for guests using the system.
+The Westminster Presbyterian Church Proclaim Reference Guide is s reference for the technology located in Mackey Hall instnded for guests using the system.
 
 --- 
 
@@ -15,7 +15,7 @@ For any questions or comments, please [email me](mailto:jackveney03@gmail.com).
 
 ## Licenses
 
-### Westminster Presbyterian Church Technology Documentation for Guests Project
+### Westminster Presbyterian Church Proclaim Reference Guide Project
 
 
 MIT License
@@ -42,7 +42,7 @@ SOFTWARE.
 
 ---
 
-### Westminster Presbyterian Church Technology Documentation for Guests Theme
+### Westminster Presbyterian Church Proclaim Reference Guide Theme
 
 Themes used under license from Martin Donath.
 

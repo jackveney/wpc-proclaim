@@ -1,12 +1,12 @@
-site_name: WPC Technology Documentation for Guests
+site_name: WPC Proclaim Reference Guide
 
-repo_name: jackveney/wpc-tech-docs-guests
-repo_url: https://github.com/jackveney/wpc-tech-docs-guests
+repo_name: jackveney/wpc-proclaim
+repo_url: https://github.com/jackveney/wpc-proclaim
 edit_uri: ""
 extra_css:
   - 'css/extra.css'
 
-site_description: A reference for the technology located in Mackey Hall instnded for guests using the system.
+site_description: A reference guide for Proclaim.
 site_author: Jack Veney
 theme:
   name: material
@@ -92,8 +92,8 @@ plugins:
       #
       cover: true
       back_cover: true
-      cover_title: Guest Documentation
-      cover_subtitle: Westminster Presbyterian Church - Mackey Hall Technology
+      cover_title: Proclaim Reference Guide
+      cover_subtitle: Westminster Presbyterian Church
       cover_logo: assets/images/banner.png
       #custom_template_path: TEMPLATES PATH
       #
@@ -143,16 +143,7 @@ nav:
     - Documentation: documentation/index.md
     - Video:
       - Lowering Projector Screen: documentation/video/lowering_screen.md
-      - Raising Projector Screen: documentation/video/raising_screen.md
-      - Turning Projector On: documentation/video/turning_projector_on.md
-      - Turning Projector Off: documentation/video/turning_projector_off.md
-      - Input Methods: documentation/video/inputs.md
-    - Audio:
-      - Turning Sound System On: documentation/audio/turning_sound_system_on.md
-      - Connecting iPad to Sound System: documentation/audio/ipad_sound_system.md
-      - Using Computer Audio: documentation/audio/computer_audio.md
-      - Connecting and Using Microphones: documentation/audio/microphones.md
-      - Turning Sound System Off: documentation/audio/turning_sound_system_off.md
+
 #    - Computers:
 #      - Mackey Hall Computers: documentation/turning_projector_on.md
 #      - Personal Computer: documentation/turning_projector_on.md
