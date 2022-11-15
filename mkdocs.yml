@@ -177,5 +177,8 @@ nav:
     - Adding Hymns: documentation/add_hymns.md
     - Editing Scripture Readings: documentation/edit_scripture.md
     - Adding Scripture Readings: documentation/add_scripture.md
+  - Working With Images:
     - Adding Images to Service Content: documentation/add_images_service.md
+    - Adding Images to Pre- and Post-Service Loop: documentation/add_images_service.md
+    - Deleting Images from Pre- and Post-Service Loop: documentation/delete_images_loop.md
   - PDF: pdf/document.pdf
