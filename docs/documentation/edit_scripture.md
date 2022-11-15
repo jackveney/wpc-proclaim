@@ -1,24 +1,22 @@
 # Editing Scripture
 
 ## 1. Navigate to Existing Scripture Reading
- To edit the previous scripture reading navigate to the content you want to edit. They are all labelled on the left sidebar. When you select an element from the left sidebar it will turn yellow.
+ To edit the previous scripture reading navigate to the scripture reading. It will be named whatever the current scripture reading entered is.
  
  ![Sidebar](../assets/images/editing_content/sidebar.png)
- 
- <i>I will use the Scripture (Micah 1:1–5; 6:6–8) from 11/13/2022 as the example on this page.</i>
 
 ## 2. Delete Previous Readings
- Delete the previous readings by selecting the "x" to the right of them
+ Delete the previous readings by selecting the ```x``` to the right of them
 
  ![Delete](../assets/images/scripture/delete.png)
 
 ## 3. Add a Passage
- Now that the previous readings have been deleted, add a new pacssage by clicking the "Add a passage" text. 
+ Now that the previous readings have been deleted, add a new passage by clicking the ```Add a passage``` text. 
 
  ![Add Passage](../assets/images/scripture/add_passage.png)
 
 ## 4. Enter Readings
- Enter the readings into the box. For readings that span multiple chapters, you will have to break up the chapters. Press the arrow button to the right to add the scripture reading to the content.
+ Enter the readings into the box. For readings that span multiple chapters, you will have to break up the chapters. Press the ```->``` button to the right to add the scripture reading to the content.
 
  ![Arrow](../assets/images/scripture/delete.png)
 

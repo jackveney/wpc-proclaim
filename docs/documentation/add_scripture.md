@@ -1,22 +1,22 @@
 # Adding Scripture
 
-## 1. Import Item
- Add a new hymn by doing the following:
+## 1. Add On-Screen Bible
+ Add a new On-Screen Bible by doing the following:
 
   ```
   Add Item --> On-Screen Bible
   ```
   
- ![Sidebar](../assets/images/hymns/import_item.png)
+ ![Sidebar](../assets/images/editing_content/add_item.png)
  
 
 ## 2. Add a Passage
- Now that the previous readings have been deleted, add a new pacssage by clicking the "Add a passage" text. 
+ Add a new passage by clicking the ```Add a passage``` text. 
 
  ![Add Passage](../assets/images/scripture/add_passage.png)
 
 ## 3. Enter Readings
- Enter the readings into the box. For readings that span multiple chapters, you will have to break up the chapters. Press the arrow button to the right to add the scripture reading to the content.
+ Enter the readings into the box. For readings that span multiple chapters, you will have to break up the chapters. Press the ```->``` to the right to add the scripture reading to the content.
 
  ![Arrow](../assets/images/scripture/delete.png)
 
