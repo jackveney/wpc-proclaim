@@ -170,7 +170,7 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Documentation:
+  - Documentation
     - Starting Out:
       - Starting a New Presentation: documentation/starting_new.md
     - Working With Hymns:
