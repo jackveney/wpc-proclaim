@@ -170,8 +170,9 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Documentation: 
-    - Starting a New Presentation: documentation/starting_new.md
+  - Documentation:
+    - Starting Out:
+      - Starting a New Presentation: documentation/starting_new.md
     - Working With Hymns:
       - Editing Text Content: documentation/editing_content.md
       - Creating New Text Content: documentation/new_content.md
