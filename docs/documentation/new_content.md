@@ -15,28 +15,28 @@ It will add the new content item after the last content item you selected.
 ## 2. Copy and Paste
  From the liturgy worksheet or formatted liturgy, copy and paste the reading into the box on proclaim. <i>I will use the Gathering Words from 11/13/2022 as the example on this page.</i>
 
-### Copy: 
+### A. Copy
 
  ![Copy](../assets/images/editing_content/copy.png)
 
-### Paste:
+### B. Paste
  
  ![Paste](../assets/images/editing_content/paste.png)
 
 ## 3. Format
  It should keep the bold elements bold when you paste, but you’ll have to make them glow, so you can check their bolding then. The simple rule here is whatever is bolded in the liturgy (for the congregation to read together) gets bolded and emphasized in Proclaim. The text will show up blue in the text box when you emphasize it, and yellow on the slides. Also, center the content both horizontally and vertically.
  
-### Bold
+### A. Bold
   Bold lines by using the following button:
 
   ![Bold](../assets/images/editing_content/bold.png)
 
-### Emphasize
+### B. Emphasize
   Emphasize lines using the ```Empahsize Text``` button at the top of the text box:
 
   ![Emphasize](../assets/images/editing_content/emphasize.png)
 
-### Slide Breaks
+### C. Slide Breaks
   Add slide breaks in one of two ways. You can add two dashes on its own line:
 
   ```
@@ -47,7 +47,7 @@ It will add the new content item after the last content item you selected.
 
   ![Line Break](../assets/images/editing_content/linebreak.png)
 
-### Center Content
+### D. Center Content
   Verify that the content is vertically and horizontally centered on the slide. Do the following to verify this:
 
   On the top bar click the ```Text Alignment``` icon:
@@ -58,7 +58,7 @@ It will add the new content item after the last content item you selected.
 
   ![Text Alignment](../assets/images/editing_content/lineallignment_all.png)
 
-### Example
+### E. Example
   Doing all of this ends up with the following in the text box: <i>(Using the Gathering Words from 11/13/2022 as the example)</i>
 
   ![Formatted](../assets/images/editing_content/formatted_textbox.png)
