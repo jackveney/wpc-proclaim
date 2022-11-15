@@ -169,7 +169,7 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Documentation
+  - Documentation:
     - Starting Out:
       - Starting a New Presentation: documentation/starting_new.md
     - Working With Hymns:
