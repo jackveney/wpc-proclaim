@@ -32,9 +32,10 @@
 ### Line Breaks
   Add line breaks in one of two ways. You can add two dashes on its own line:
 
-  ``` yaml
+  ```
   --
   ```
+
   or using the following button:
 
   ![Line Break](../assets/images/editing_content/linebreak.png)
