@@ -172,8 +172,9 @@ nav:
   - About: about.md
   - Documentation: 
     - Starting a New Presentation: documentation/starting_new.md
-    - Editing Text Content: documentation/editing_content.md
-    - Creating New Text Content: documentation/new_content.md
+    - Working With Hymns:
+      - Editing Text Content: documentation/editing_content.md
+      - Creating New Text Content: documentation/new_content.md
     - Working With Hymns:
       - Adding Hymns: documentation/add_hymns.md
     - Working With Scripture:
