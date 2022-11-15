@@ -140,9 +140,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Documentation:
-    - Documentation: documentation/index.md
-    - Video:
-      - Lowering Projector Screen: documentation/video/lowering_screen.md
+    - Documentation:
+      - Starting a New Presentation: documentation/starting_new.md
+      - Editing Text Content: documentation/editing_content.md
 
 #    - Computers:
 #      - Mackey Hall Computers: documentation/turning_projector_on.md
