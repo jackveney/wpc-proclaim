@@ -37,7 +37,7 @@ On a Mac it will likely show ```Keynote/PowerPoint...```
  - ```Convert to images``` is toggled
  - The box for ```Use on this computer only``` is not checked.
   
-  Then, click ```add```.
+  Then, click ```ADD```.
 
  ![Import PPT](../assets/images/hymns/import_ppt.png)
 
