@@ -17,16 +17,16 @@ On a Mac it will likely show ```Keynote/PowerPoint...```
  
    ```
    GTG:
-    --> Hymns for Projection:
-      --> Hymns by Number:
-         --> Harmony PDF
-         --> Harmony PPT
-         --> Lyrics Only PDF
-         --> Lyrics Only PPT
-         --> Melody PDF
-         --> Melody PPT
-    --> Instructions and Permissions:
-      --> Copyright Information
+   ├─ Hymns for Projection/
+   │  └─ Hymns by Number/
+   │     ├─ Harmony.pdf
+   │     ├─ Harmony.ppt
+   │     ├─ Lyrics Only.pdf
+   │     ├─ Lyrics Only.ppt
+   │     ├─ Melody.pdf
+   │     ├─ Melody.ppt
+   └─ Instructions and Permissions/
+      └─ Copyright Information
    ```
  
  You want to select the Melody PPT to import into Proclaim.
