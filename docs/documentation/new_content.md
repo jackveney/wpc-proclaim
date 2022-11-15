@@ -1,9 +1,15 @@
-# Editing Text Content
+# Creating New Text Content
 
-## 1. Navigate to content to be edited
- To edit the previous liturgical elements/prayers navigate to the content you want to edit. They are all labelled on the left sidebar. When you select an element from the left sidebar it will turn yellow.
- 
- ![Sidebar](../assets/images/editing_content/sidebar.png)
+## 1. Create New Content
+ Add a new text content by doing the following:
+
+  ```
+  Add Item --> Content
+  ```
+
+It will add the new content item after the last content item you selected. 
+
+ ![Sidebar](../assets/images/editing_content/add_item.png)
  
 
 ## 2. Copy and Paste
@@ -18,7 +24,7 @@
  ![Paste](../assets/images/editing_content/paste.png)
 
 ## 3. Format Liturgy
- It should keep the bold elements bold when you paste, but you’ll have to make them glow, so you can check their bolding then. The simple rule here is whatever is bolded in the liturgy (for the congregation to read together) gets bolded and emphasized in Proclaim. The text will show up blue in the text box when you emphasize it, and yellow on the slides.
+ It should keep the bold elements bold when you paste, but you’ll have to make them glow, so you can check their bolding then. The simple rule here is whatever is bolded in the liturgy (for the congregation to read together) gets bolded and emphasized in Proclaim. The text will show up blue in the text box when you emphasize it, and yellow on the slides. Also, center the content both horizontally and vertically.
  
 ### Bold
   Bold lines by using the following button:
