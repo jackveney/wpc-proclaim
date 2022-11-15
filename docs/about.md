@@ -1,6 +1,6 @@
 # Westminster Presbyterian Church Proclaim Reference Guide
 
-The Westminster Presbyterian Church Proclaim Reference Guide is s reference for the technology located in Mackey Hall instnded for guests using the system.
+The Westminster Presbyterian Church Proclaim Reference Guide is a reference for the technology located in Mackey Hall instnded for guests using the system.
 
 --- 
 

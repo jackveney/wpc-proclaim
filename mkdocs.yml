@@ -144,7 +144,7 @@ plugins:
       #      img: POSTER IMAGE URL
       #      text: ALTERNATE TEXT
       #    - src: ...
-      two_columns_level: 3
+      #two_columns_level: 3
       #
       #render_js: true
       #headless_chrome_path: headless-chromium
@@ -169,7 +169,6 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - About: about.md
   - Documentation
     - Starting Out:
       - Starting a New Presentation: documentation/starting_new.md
