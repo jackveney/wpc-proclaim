@@ -112,7 +112,7 @@ plugins:
       lang: en
   - redirects:
       redirect_maps:
-        index.md: documentation/getting_started.md
+        index.md: documentation/starting_new.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
