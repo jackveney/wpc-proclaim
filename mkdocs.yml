@@ -112,7 +112,7 @@ plugins:
       lang: en
   - redirects:
       redirect_maps:
-        docs.md: documentation/index.md
+        index.md: documentation/getting_started.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
@@ -168,7 +168,6 @@ plugins:
 
 # Page tree
 nav:
-  - Home: index.md
   - Documentation:
     - Starting Out:
       - Starting a New Presentation: documentation/starting_new.md
